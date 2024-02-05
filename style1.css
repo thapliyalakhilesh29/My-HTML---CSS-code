@@ -1,0 +1,22 @@
+body{
+    background-color: #d3d3d3;
+}
+h1{
+    color: rgb(9, 3, 87);
+}
+h2{
+    color: rgb(220, 24, 64);
+    font-family: serif;
+    
+}
+p{
+    color: brown;
+}
+label{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+input{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
