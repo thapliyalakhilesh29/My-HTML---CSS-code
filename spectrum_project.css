@@ -1,0 +1,36 @@
+.kanit-light-italic {
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+}
+
+.pallet{
+    margin: auto;
+}
+
+td {
+    background-color: black;
+    height: 300px;
+    width: 150px;
+}
+
+#one{
+    background-color:#264653 ;
+}
+#two{
+    background-color:#2A9D8F ;
+}
+#three{
+    background-color: #E9C46A;
+}
+#four{
+    background-color:#F4A261 ;
+}
+#five{
+    background-color: #E76F51;
+}
+
